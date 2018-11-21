@@ -1,0 +1,6 @@
+[package]
+name = "bamboo_messenger"
+version = "0.1.0"
+authors = ["Clark Walker <303walker@gmail.com>"]
+
+[dependencies]
